@@ -1,19 +1,21 @@
 {
   "name": "surreal-bridge",
-	"version": "0.0.1",
-	"description": "Lightweight, flexible Object-Relational wrapper for SurrealDB.",
-	"author": {
-		"email": "moritz.utcke@gmx.de",
-		"name": "Moritz Utcke",
-		"url": "https://letsmoe.com"
-	},
-	"license": "MIT",
-	"displayName": "Surreal Bridge",
-	"types": "./src/index.ts",
-  "module": "./src/index.ts",
+  "version": "0.0.1",
+  "description": "Lightweight, flexible Object-Relational wrapper for SurrealDB.",
+  "author": {
+    "email": "moritz.utcke@gmx.de",
+    "name": "Moritz Utcke",
+    "url": "https://letsmoe.com"
+  },
+  "license": "MIT",
+  "displayName": "Surreal Bridge",
+  "types": "./index.ts",
+  "module": "./index.ts",
   "type": "module",
   "devDependencies": {
-    "@types/bun": "latest"
+    "@faker-js/faker": "^8.4.1",
+    "@types/bun": "latest",
+    "tsd": "^0.31.1"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

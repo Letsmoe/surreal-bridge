@@ -28,6 +28,10 @@ export class SurrealBridge {
 		this.surreal = new Surreal();
 	}
 
+	get connector() {
+		return this.surreal;
+	}
+
 	async connect() {
 		if (this.surreal.connection?.ready) {
 			return this;
