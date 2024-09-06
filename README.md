@@ -1,27 +1,19 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-<br />
 <div align="center">
-  <a href="https://github.com/letsmoe/surreal-bridge">
-    <img src="images/logo.png" alt="Logo" width="200" height="200">
-  </a>
-
+<a href="https://github.com/letsmoe/surreal-bridge">
+	<img src="images/logo.png" alt="Logo" width="200" height="200">
+</a>
 <h3 align="center">Surreal Bridge</h3>
-
+	Lightweight, flexible Object-Relational wrapper for SurrealDB. It simplifies the interaction between your application and SurrealDB by providing an easy-to-use interface for database operations.
+		<br/>
+		<br/>
   <p align="center">
-    Lightweight, flexible Object-Relational wrapper for SurrealDB. It simplifies the interaction between your application and SurrealDB by providing an easy-to-use interface for database operations.
-    <br />
-    <a href="https://surreal-bridge.neopathways.de/"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/letsmoe/surreal-bridge/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/letsmoe/surreal-bridge/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+	<a href="https://surreal-bridge.neopathways.de/"><strong>Explore the docs »</strong></a>
+	<br />
+	<a href="https://github.com/letsmoe/surreal-bridge/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+	·
+	<a href="https://github.com/letsmoe/surreal-bridge/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+</p>
+	
 </div>
 
 
@@ -107,14 +99,3 @@ We welcome contributions! If you would like to contribute to Surreal-Bridge, ple
 ## License
 
 Surreal-Bridge is licensed under the [MIT License](LICENSE.md). See the LICENSE file for more information.
-
-[contributors-shield]: https://img.shields.io/github/contributors/letsmoe/surreal-bridge.svg?style=for-the-badge
-[contributors-url]: https://github.com/letsmoe/surreal-bridge/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/letsmoe/surreal-bridge.svg?style=for-the-badge
-[forks-url]: https://github.com/letsmoe/surreal-bridge/network/members
-[stars-shield]: https://img.shields.io/github/stars/letsmoe/surreal-bridge.svg?style=for-the-badge
-[stars-url]: https://github.com/letsmoe/surreal-bridge/stargazers
-[issues-shield]: https://img.shields.io/github/issues/letsmoe/surreal-bridge.svg?style=for-the-badge
-[issues-url]: https://github.com/letsmoe/surreal-bridge/issues
-[license-shield]: https://img.shields.io/github/license/letsmoe/surreal-bridge.svg?style=for-the-badge
-[license-url]: https://github.com/letsmoe/surreal-bridge/blob/master/LICENSE.txt
